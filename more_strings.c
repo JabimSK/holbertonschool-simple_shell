@@ -3,6 +3,10 @@
  * _strtok - strtok
  * @str: str
  * @delim: delim
+<<<<<<< HEAD
+ *
+=======
+>>>>>>> 386e50bd1d3c625501d69d4a2e5265fc0fde20b9
  * Return: ret
  */
 char *_strtok(char *str, char delim)
@@ -45,6 +49,10 @@ return (tok1);
 /**
  * _strlen - Calculates the length of a string
  * @s: String
+<<<<<<< HEAD
+ *
+=======
+>>>>>>> 386e50bd1d3c625501d69d4a2e5265fc0fde20b9
  * Return: Returns the length of a string
  */
 int _strlen(const char *s)
@@ -57,6 +65,10 @@ return (i);
 /**
  * _strdup - strdup C function
  * @str: String to duplicate
+<<<<<<< HEAD
+ *
+=======
+>>>>>>> 386e50bd1d3c625501d69d4a2e5265fc0fde20b9
  * Return: A new copy of the given string
  */
 char *_strdup(const char *str)
